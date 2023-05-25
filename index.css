@@ -66,6 +66,11 @@ body{
     background: #06283D;
 }
 
+.search-box button.hover-effect {
+    color: white;
+    background: #06283D;
+}
+
 .search-box i{
     position: absolute;
     color: #06283D;
